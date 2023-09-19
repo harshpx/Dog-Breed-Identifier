@@ -3,13 +3,13 @@ Dog Breed Predictor Web App based on a Deep Learning classification model. creat
 
 **Tech Stack:** Python, Tensorflow, Streamlit
 
-#### To see this app working live: 
-Hop onto: [https://dog-breed-predictor-cnn-inceptionv3.streamlit.app/](https://dog-breed-predictor-cnn-inceptionv3.streamlit.app/)
+#### To see this app working live:
+Hop onto: [Dog Breed Predictor App](http://43.204.102.223:8501/)
 
 #### To run this project on your local system: 
 To deploy this project locally, first make sure you have all dependencies installed. *see ```requirements.txt```*
 
-And Run: ```streamlit app.py``` or ```python3 -m streamlit app.py``` 
+And Run: ```streamlit run app.py``` or ```python3 -m streamlit run app.py``` 
 
 in the terminal of file directory.
 
