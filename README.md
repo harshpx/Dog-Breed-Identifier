@@ -4,7 +4,7 @@ Dog Breed Predictor Web App based on a Deep Learning classification model. creat
 **Tech Stack:** Python, Tensorflow, Streamlit
 
 #### To see this app working live:
-Hop onto: [Dog Breed Predictor App](http://43.204.102.223:8501/)
+Hop onto: [Dog Breed Predictor App](http://13.232.154.124:8501/)
 
 #### To run this project on your local system: 
 To deploy this project locally, first make sure you have all dependencies installed. *see ```requirements.txt```*
