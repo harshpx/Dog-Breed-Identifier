@@ -3,13 +3,19 @@ Dog Breed Predictor Web App based on a Deep Learning classification model. creat
 
 **Tech Stack:** Python, Tensorflow, Streamlit
 
-#### To see this app working live:
-Hop onto: [Dog Breed Predictor App](http://13.232.154.124:8501/)
-
 #### To run this project on your local system: 
-To deploy this project locally, first make sure you have all dependencies installed. *see ```requirements.txt```*
+Package Requirements: `TensorFlow`,`Numpy`,`Streamlit`
 
-And Run: ```streamlit run app.py``` or ```python3 -m streamlit run app.py``` 
+Install dependencies: `pip install tensorflow numpy streamlit`
+
+To run the project:
+
+```bash
+mkdir Project
+cd Project
+git clone "https://github.com/harshpx/Virtual-Assistant-Referee.git"
+streamlit run app.py
+```
 
 in the terminal of file directory.
 
