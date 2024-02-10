@@ -1,4 +1,4 @@
-# Dog-Breed-Predictor-CNN-InceptionV3
+# Dog-Breed-Identifier
 Dog Breed Predictor Web App based on a Deep Learning classification model. created using **CNNs** and **InceptionV3** model (a 48 layers deep convolutional neural network).
 
 **Tech Stack:** Python, Tensorflow, Streamlit
