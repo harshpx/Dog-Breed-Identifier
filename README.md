@@ -13,7 +13,7 @@ To run the project:
 ```bash
 mkdir Project
 cd Project
-git clone "https://github.com/harshpx/Virtual-Assistant-Referee.git"
+git clone "[https://github.com/harshpx/Dog-Breed-Predictor-CNN-InceptionV3.git](https://github.com/harshpx/Dog-Breed-Predictor-CNN-InceptionV3.git)"
 streamlit run app.py
 ```
 
