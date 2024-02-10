@@ -11,9 +11,8 @@ Install dependencies: `pip install tensorflow numpy streamlit`
 To run the project:
 
 ```bash
-mkdir Project
-cd Project
 git clone "https://github.com/harshpx/Dog-Breed-Predictor-CNN-InceptionV3.git"
+cd Dog-Breed-Predictor-CNN-InceptionV3
 streamlit run app.py
 ```
 
